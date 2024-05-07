@@ -155,6 +155,10 @@
 
     footer .about .slide {
         margin-bottom: 1.5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 
     footer .about .slide.one .image {
