@@ -226,6 +226,10 @@ footer .about {
     align-items: start;
 }
 
+footer .about {
+    text-align: center;
+}
+
 footer .about .slide.one .image {
     display: flex;
     align-items: center;
